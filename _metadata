@@ -1,0 +1,11 @@
+{
+    "version" : "0.0.1",
+    "author" : "Reborned_Tigrex",
+    "tags" : "",
+    "description" : "",
+    "requires" : [""],
+    "name" : "Tigrex_pack",
+    "friendlyName" : "Tigrex_pack",
+    "link" : "",
+    "includes" : [""]
+}
