@@ -1,0 +1,10 @@
+[
+    {
+        "op" : "replace", "path" : "/species/human",
+		"value" : {
+			"aiFrames" : "TigrexAI.png",
+			"portraitFrames" : "portraits/tigrexAIportrait.png",
+			"staticFrames" : "tigrexAIstatic.png"
+		}
+    }
+]
